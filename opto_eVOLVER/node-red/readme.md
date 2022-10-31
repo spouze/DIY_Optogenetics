@@ -6,7 +6,7 @@
 
 
 
-# The User Interface (UI)
+# User Interface (UI):
 Default UI:
 
 <img src="screenshots/UI.png" width="1000">
