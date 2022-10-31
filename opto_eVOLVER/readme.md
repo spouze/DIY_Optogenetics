@@ -2,7 +2,7 @@
 
 ## Overview
 
-Based on [Wong 2018](https://www.nature.com/articles/nbt.4151)
+Based on [Wong, Mancuso et al. 2018](https://www.nature.com/articles/nbt.4151)
 -> Why what
 
 
