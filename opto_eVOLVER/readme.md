@@ -2,8 +2,8 @@
 
 ## Overview
 
+Based on [Wong 2018](https://www.nature.com/articles/nbt.4151)
 -> Why what
--> Paper link
 
 
 ### Setting up (Ubuntu 20.04.4):
