@@ -3,10 +3,10 @@
 from "Optogenetic control of beta-carotene bioproduction in yeast across lab-scales" --LINK--
 
 ## Opto devices:
-- [Box](https://github.com/Lab513/DIY_Optogenetics/opto_Box) (Light-Plate Apparatus)
-- [Tubes](https://github.com/Lab513/DIY_Optogenetics/opto_Tubes)
-- [Flasks](https://github.com/Lab513/DIY_Optogenetics/opto_Flasks)
-- [eVOLVER](https://github.com/Lab513/DIY_Optogenetics/opto_eVOLVER)
+- [Box](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Box) (Light-Plate Apparatus)
+- [Tubes](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Tubes)
+- [Flasks](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Flasks)
+- [eVOLVER](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_eVOLVER)
 
 
 ___
