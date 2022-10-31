@@ -1,4 +1,11 @@
-#
+# Code:
+
+- eVOLVER17: run 1 experiment on one single unit (test-type)
+- Reference 17 units : run culture experiements on the 16 units (16 individual launchers)
+- Multiplex : Code for testing and callibrations of all units
+
+
+
 # The User Interface (UI)
 Default UI:
 
