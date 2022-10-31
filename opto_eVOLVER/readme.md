@@ -6,7 +6,7 @@ Based on [Wong, Mancuso et al. 2018](https://www.nature.com/articles/nbt.4151)
 -> Why what
 
 
-### Setting up (Ubuntu 20.04.4):
+## Setting up (Ubuntu 20.04.4):
 
 - install npm
 ```
