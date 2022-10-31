@@ -3,7 +3,6 @@
 from "Optogenetic control of beta-carotene bioproduction in yeast across lab-scales" [--LINK--]()
 
 ### Illumination devices for optogenetics:
-Opto -
 - [Box](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Box) (Light-Plate Apparatus)
 - [Tubes](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Tubes)
 - [eVOLVER](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_eVOLVER)
