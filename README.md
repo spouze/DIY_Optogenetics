@@ -1,5 +1,8 @@
-# Optogenetic control of beta-carotene bioproduction in yeast across multiple lab-scales
+# Optogenetic control of beta-carotene bioproduction in yeast across lab-scales
 
+
+
+___
 ## Copyright and License
 
 Copyright &copy; ...
