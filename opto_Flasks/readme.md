@@ -7,7 +7,8 @@ Made of 2 nested petri dishes, a slightly bigger one to encase the electronics c
 ___
 **SUPPLEMENTARY FIGURE S3:** </br>
 A number of LEDs are arranged in circle to line up with the rotating medium in a shaking incubator. </br>
-LEDs are arranged in series of 4 so that each receives 20mA. 
+LEDs are arranged in series of 4 so that each receives 20mA. </br>
+In practice (far right), LEDs are connected (soldered) via their leads (long and short), and only a few wires are needed to connect to the power socket.</br>
 ![](FIGS3A_optoflasks.png)
 Flasks are placed on top of those illumination stands and held together in metallic holders + lab tape. 
 ![](FIGS3B_optoflasks.png)
