@@ -6,6 +6,6 @@ The device is composed of a base (see STL file), which holds a box in which LEDs
 
 ___
 **SUPPLEMENTARY FIGURE S2**:
-![100](FIGS2_optotubes.png)
+![](FIGS2_optotubes.png)
 
 
