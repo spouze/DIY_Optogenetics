@@ -2,7 +2,7 @@
 
 ## Overview
 
-Based on [Wong, Mancuso et al. 2018](https://www.nature.com/articles/nbt.4151)
+Based on [Wong, Mancuso et al. 2018](https://www.nature.com/articles/nbt.4151), more information on the [Kalil Lab's dedicated eVOLVER repository](https://github.com/khalillab/evolver-docs). 
 -> Why what
 
 ![](pic_eVOLVER.png)
