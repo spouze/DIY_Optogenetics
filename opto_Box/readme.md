@@ -1,4 +1,4 @@
 
 ## "Opto Box" = Light-Plate Apparatus (LPA) from [Gerhardt 2016](https://www.nature.com/articles/srep35363).
 Coding on the [Iris Software](http://taborlab.github.io/Iris/). <br/>
-More info on the Tabor Lab's [LPA dedicated Github repository](https://github.com/taborlab/LPA-hardware).
+More info on the [Tabor Lab's dedicated Github repository](https://github.com/taborlab/LPA-hardware).
