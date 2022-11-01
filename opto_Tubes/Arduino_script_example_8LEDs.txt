@@ -1,0 +1,16 @@
+/* Script to have 8 LEDs at intensities from 10 to 255 (max)*/ 
+
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop() {
+  analogWrite(2, 10);
+  analogWrite(3, 35);
+  analogWrite(4, 50);
+  analogWrite(5, 75);
+  analogWrite(6, 100);
+  analogWrite(7, 150);
+  analogWrite(8, 200);
+  analogWrite(9, 255);
+}
