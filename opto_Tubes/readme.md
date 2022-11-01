@@ -5,7 +5,7 @@ It is made of a simple LED array controlled by an Arduino, programmed in C++ (vi
 The device is composed of a base (see STL file), which holds a box in which LEDs are encased, onto which is positioned an adapter carrying the culture tubes (see STL file and Fig.S2e below). </br>
 
 ___
-SUP FIGURE S2:
+**SUPPLEMENTARY FIGURE S2**:
 ![](FIGS2_optotubes.png)
 
 
