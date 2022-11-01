@@ -10,8 +10,8 @@ ___
 ![](FIGS2C_optotubes.png)</br></br>
 
 ___
-Example code to run on Arduino (8 LEDs with intermediate intensities):</br>
-(see Arduino_script_example_8LEDs.txt)</br>
+Example code to run on Arduino (8 LEDs with intermediate intensities for constant illumination):</br>
+(see "Arduino_script_example_8LEDs.txt")</br>
 ```
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
