@@ -5,6 +5,6 @@ It is made of a simple LED controled by an Arduino, programmed in C++ (via the [
 
 ___
 SUP FIGURE S2:
-
+![](FIGS2_optotubes.png)
 
 
