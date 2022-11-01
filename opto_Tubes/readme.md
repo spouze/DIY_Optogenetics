@@ -9,6 +9,7 @@ ___
 ![](FIGS2A_optotubes.png)</br></br>
 ![](FIGS2C_optotubes.png)</br></br>
 
+___
 Example code to run on Arduino (8 LEDs with intermediate intensities):</br>
 (see Arduino_script_example_8LEDs.txt)</br>
 ```
