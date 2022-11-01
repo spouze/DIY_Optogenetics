@@ -5,8 +5,9 @@
 Based on [Wong, Mancuso et al. 2018](https://www.nature.com/articles/nbt.4151)
 -> Why what
 
+![](pic_eVOLVER.png)
 
-## Setting up (Ubuntu 20.04.4):
+## Setting up node-red (Ubuntu 20.04.4):
 
 - install npm
 ```
