@@ -1,5 +1,5 @@
 # Opto Flasks
-To illuminate flasks (250 mL flasks used in the study). </br></br>
+To illuminate flasks (250 mL flasks used in the study). </br>
 
 ___
 **SUP FIG S3** </br>
