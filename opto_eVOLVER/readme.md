@@ -1,6 +1,6 @@
 # opto eVOLVER
 Based on [Wong, Mancuso et al. 2018](https://www.nature.com/articles/nbt.4151). </br>
-More information on the [Kalil Lab's dedicated Github repository](https://github.com/khalillab/evolver-docs). 
+More details on the [Kalil Lab's dedicated Github repository](https://github.com/khalillab/evolver-docs). 
 
 ## Overview
 
