@@ -48,4 +48,6 @@ Copy Paste this URL (might change) in your favorite web browser.
   - node-red-node-serialport
   - node-red-node-arduino
 
+- If you want to start off with the scripts of this repository, in "home/.node-red/", replace "flows_[computer-name].json" by the single_unit script to start with, rename this new .json file "flows_[computer-name].json" (same name to be recognized by node-red), and relaunch node-red. Once the node-red script accessible, it will be necessary to adapt COM ports of the Arduino nodes in the node-red script to fit the one of your Arduino.
+
 
