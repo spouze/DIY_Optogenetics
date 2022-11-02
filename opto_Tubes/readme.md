@@ -6,8 +6,8 @@ The device is composed of a base (see STL file), which holds a box in which LEDs
 
 ___
 **SUPPLEMENTARY FIGURE S2**: </br></br>
-![](FIGS2A_optotubes.png)</br></br>
-![](FIGS2C_optotubes.png)</br></br>
+![](FIGS2A_optotubes.jpeg)</br></br>
+![](FIGS2C_optotubes.jpeg)</br></br>
 
 ___
 Example code to run on Arduino (8 LEDs with intermediate intensities for constant illumination):</br>
