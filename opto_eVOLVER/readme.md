@@ -4,8 +4,8 @@ More details on the original design on the [Kalil Lab's dedicated Github reposit
 
 ## Overview
 
-
--> Why what
+We adapted the eVOLVER from the Khalil Lab for optogenetics, and simplified the design such that each eVOLVER unit comprises its own arduino connected to a sleeve (culture receptacle). </br>
+Design and details are described in [SupFile2_opto_eVOLVER.pdf](SupFile2_opto_eVOLVER.pdf). </br>
 
 ![](pic_eVOLVER.png)
 
