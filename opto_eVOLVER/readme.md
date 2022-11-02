@@ -9,7 +9,7 @@ We adapted the eVOLVER from the Khalil Lab for optogenetics, and simplified the 
 
 This repository contains the STL file for the 3D-printed holder modified to accomodate for an extra LED and photoresistor pair, and the node-red code (and screenshots) used to control a single opto_eVOLVER unit or a set of 16 units, and a calibration/test script.</br></br>
 
-![](pic_eVOLVER.png)
+![](pic_eVOLVER.jpeg)
 
 ## Setting up node-red (Ubuntu 20.04.4):
 
