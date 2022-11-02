@@ -5,13 +5,13 @@ ___
 **Illumination stands construction**: </br>
 
 The illuination stand is made of 2 nested petri dishes (a.), a slightly bigger one to encase the electronics components (base + lid), a slighty smaller one where holes are drilled to hold LEDs in place (base only - c.). All petri dish parts are cut for a power socket to be positioned on the outside of the plates (b., c.).</br></br>
-![](tuto_ill_stand_1.png)</br>
+![](tuto_ill_stand_1.jpeg)</br>
 
 In practice, LEDs are connected (soldered) via their leads (long and short) in series of four (e., f.), and only a few wires are needed to connect to the power socket (g., h.). </br></br>
-![](tuto_ill_stand_2.png)</br>
+![](tuto_ill_stand_2.jpeg)</br>
 
 Once the bases are nested, the lid is put on (i.).  There, using black tape, everyting is held tight together (j.).</br></br>
-![](tuto_ill_stand_3.png)</br>
+![](tuto_ill_stand_3.jpeg)</br>
 
 
 ___
