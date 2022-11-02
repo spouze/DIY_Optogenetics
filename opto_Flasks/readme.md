@@ -10,7 +10,7 @@ Made of 2 nested petri dishes, a slightly bigger one to encase the electronics c
 In practice, LEDs are connected (soldered) via their leads (long and short), and only a few wires are needed to connect to the power socket.</br></br>
 ![](tuto_ill_stand_2.png)</br>
 
-Once the bases are nested, the lid is put on.  There, using black tape, everyting is held tight together.
+Once the bases are nested, the lid is put on.  There, using black tape, everyting is held tight together.</br></br>
 ![](tuto_ill_stand_3.png)</br>
 
 
