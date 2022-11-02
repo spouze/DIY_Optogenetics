@@ -4,6 +4,6 @@ This repository contains documents, codes and schemes for the construction of th
 
 ### Illumination devices for optogenetics:
 - [Box](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Box) (Light-Plate Apparatus)
-- [Tubes](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Tubes)
-- [eVOLVER](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_eVOLVER)
-- [Flasks](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Flasks)
+- For [Tubes](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Tubes)
+- Adapted [eVOLVER](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_eVOLVER)
+- For [Flasks](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Flasks)
