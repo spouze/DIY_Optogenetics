@@ -8,3 +8,7 @@ Previously on [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.31.51447
 - For [Tubes](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Tubes)
 - Adapted [eVOLVER](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_eVOLVER)
 - For [Flasks](https://github.com/Lab513/DIY_Optogenetics/tree/master/opto_Flasks)
+
+###License
+Licence Creative Commons
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.
